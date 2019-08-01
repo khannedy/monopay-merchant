@@ -9,10 +9,10 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <groupId>com.monopay</groupId>
-  <artifactId>monopay-wallet</artifactId>
+  <artifactId>monopay-merchant</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>monopay-wallet</name>
+  <name>monopay-merchant</name>
   <description>Demo project for Monolith Project</description>
 
   <properties>

@@ -11,10 +11,10 @@ import org.springframework.data.mongodb.config.EnableMongoAuditing;
 @EnableConfigurationProperties({
   AuthenticationProperties.class
 })
-public class MonoPayApplication {
+public class MonoPayMerchantApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(MonoPayApplication.class, args);
+    SpringApplication.run(MonoPayMerchantApplication.class, args);
   }
 
 }
